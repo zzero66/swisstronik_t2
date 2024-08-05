@@ -1,14 +1,6 @@
-# Swisstronik Tesnet Techinal Task 2
+# Swisstronik Testnet Techninal Task 2
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
-
-Feel free donate to my EVM address
-
-EVM :
-
-```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
-```
 
 ## Steps
 
@@ -99,7 +91,7 @@ npm run balance-of
 npm run transfer
 ```
 
-### 11. Finsihed
+### 11. Finished
 
 - Open the deployed-adddress.ts (location in utils folder)
 - Copy the address and paste the address in testnet dashboard
@@ -109,4 +101,3 @@ by :
 github : [Mnuralim](https://github.com/Mnuralim)
 twitter : @Izzycracker04
 telegram : @fitriay19
-//0x37401D115bC52bBdaa59Df7f7e021523b020F98f
